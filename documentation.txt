@@ -1,0 +1,8 @@
+1/  git init  Initialization git
+2/  git status = Check Status about Track & Untrack file
+3/  U = Untracked
+4/  A = Tracked
+5/ code . = open in vscode
+6/ git rm --cached <file>   = unstage file
+7/ git add . = stage all files or tracked all files
+8/ 
