@@ -34,6 +34,11 @@ Merging Branch
 16/ Fast Forward Merge Process
 
 git checkout master = Where to Merge
-git swithc master = switched to master branch
-git merge login = merged to master branch
 
+git switch master = where to switch
+
+git merge features = what to merge
+
+17/ git branch -d features = deleted branch after merging
+
+18/ 
