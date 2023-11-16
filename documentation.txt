@@ -30,8 +30,11 @@ Branch
 
 Merging Branch
 --------------
-1/ Fast Forward Merge Process
+
+16/ Fast Forward Merge Process
 
 git checkout master = Where to Merge
-git 
+git merge features = what to merge
+
+17/ git branch -d features = deleted branch after merging
 
