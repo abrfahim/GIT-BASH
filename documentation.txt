@@ -28,3 +28,10 @@ Branch
 
 15/ git checkout master = switched to master branch
 
+Merging Branch
+--------------
+1/ Fast Forward Merge Process
+
+git checkout master = Where to Merge
+git 
+
