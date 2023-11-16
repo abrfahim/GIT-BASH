@@ -41,4 +41,8 @@ git merge features = what to merge
 
 17/ git branch -d features = deleted branch after merging
 
-18/ 
+18/ git remote add origin = connect with online
+
+19/ git branch -M main = rename branch <main is name here>
+
+20/ git push -u origin main  = push repo to online main branch
