@@ -46,3 +46,9 @@ git merge features = what to merge
 19/ git branch -M main = rename branch <main is name here>
 
 20/ git push -u origin main  = push repo to online main branch
+
+21/ git clone <link-repo> = return the repo
+
+22/ git pull = return online changed in branch
+
+23/ pull request = merge two branches on online
