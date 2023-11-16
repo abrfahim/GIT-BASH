@@ -5,4 +5,7 @@
 5/ code . = open in vscode
 6/ git rm --cached <file>   = unstage file
 7/ git add . = stage all files or tracked all files
-8/ 
+
+8/ git commit -m "My first commit"  = developer know about the last update or it's a message for what I have changed
+
+9/ 
