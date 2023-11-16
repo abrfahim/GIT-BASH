@@ -14,4 +14,17 @@
 
 11/ M = indicates modified file
 
-12/
+12/ .gitignore = used to ignore definite files
+
+
+Note : (gitignore.io)  help to ignore files and development
+
+Branch
+---------
+
+13/ git branch = show all branches
+
+14/ git checkout -b features = create a new branch and switched to features branche
+
+15/ git checkout master = switched to master branch
+
