@@ -8,4 +8,10 @@
 
 8/ git commit -m "My first commit"  = developer know about the last update or it's a message for what I have changed
 
-9/ git log = show commit history
+9/ git log = commit history
+
+10/ git log --oneline = show every commit history with id
+
+11/ M = indicates modified file
+
+12/
