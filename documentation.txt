@@ -34,5 +34,6 @@ Merging Branch
 16/ Fast Forward Merge Process
 
 git checkout master = Where to Merge
-git 
+git swithc master = switched to master branch
+git merge login = merged to master branch
 
